@@ -1,0 +1,7 @@
+logs/*.log
+tmp/
+venv*/
+pgdata/
+.idea/
+*.session
+__pycache__/
